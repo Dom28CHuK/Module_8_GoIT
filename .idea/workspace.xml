@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03a2c0ae-fb96-44ca-b6ad-4861318c5a99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java/examples/Amphibian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/examples/AmphibianTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/examples/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/examples/Swimable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/examples/Universal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/examples/UniversalTransport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/homework/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/homework/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/homework/PrintShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/homework/Quad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/homework/Rhomb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/homework/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/homework/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/homework/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +39,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
